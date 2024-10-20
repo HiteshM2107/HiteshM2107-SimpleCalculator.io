@@ -1,1 +1,1 @@
-# HiteshM2107-SimpleCalculator.io
+SimpleCalculator.io
